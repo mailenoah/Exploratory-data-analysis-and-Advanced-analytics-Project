@@ -112,11 +112,6 @@ The project uses data from two business systems, organized across three data lay
 
 ## 🚀 Getting Started
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
 
 2. **Set up the database**  
    Open MySQL Workbench, connect to your server, and run:
@@ -143,12 +138,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 👤 About Me
 
-I'm an aspiring **Data & AI Engineer** passionate about transforming raw data into meaningful business insights. This project reflects my hands-on approach to learning SQL analytics — from exploratory analysis to building structured reporting pipelines.
-
-Feel free to reach out for collaboration, feedback, or inquiries related to this project!
-
----
 
 > ⭐ *If you found this project useful, consider giving it a star!*
